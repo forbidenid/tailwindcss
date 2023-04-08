@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    #'tailwind_blog', # the modified tailwind_blog application
 ]
 
 TAILWIND_APP_NAME = 'theme'
